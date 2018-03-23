@@ -2,10 +2,12 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/EvatVakit.iml" filepath="$PROJECT_DIR$/EvatVakit.iml" />
+      <module fileurl="file://C:\Users\Fatih\StudioProjects\EzanVakit\EvatVakit.iml" filepath="C:\Users\Fatih\StudioProjects\EzanVakit\EvatVakit.iml" />
+      <module fileurl="file://$PROJECT_DIR$/EzanVakit.iml" filepath="$PROJECT_DIR$/EzanVakit.iml" />
       <module fileurl="file://$PROJECT_DIR$/EzanVakit.iml" filepath="$PROJECT_DIR$/EzanVakit.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://C:\Users\Fatih\StudioProjects\EzanVakit\app\app.iml" filepath="C:\Users\Fatih\StudioProjects\EzanVakit\app\app.iml" />
     </modules>
   </component>
 </project>
